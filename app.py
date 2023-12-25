@@ -1,6 +1,6 @@
 from flask import Flask, jsonify
 from flask_ngrok import run_with_ngrok
-import joblib
+import stock-prediction-model-joblib.ipynb
 import pandas as pd
 
 app = Flask(__name__)
