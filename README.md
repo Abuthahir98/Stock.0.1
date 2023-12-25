@@ -1,1 +1,2 @@
-# Stock.0.1
+!pip install flask flask-ngrok
+!python app.py
